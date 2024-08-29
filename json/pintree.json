@@ -42,16 +42,9 @@
       {
         "type": "link",
         "addDate": 1717807028868,
-        "title": "Admin - 产品",
+        "title": "大奶科技",
         "icon": "https://logo.clearbit.com/danai.tech",
-        "url": "https://danai.tech/admin/products/create"
-      },
-      {
-        "type": "link",
-        "addDate": 1718428210220,
-        "title": "Home media server with plex, sonarr, radarr, qbitorrent and overseerr - DEV Community",
-        "icon": "https://logo.clearbit.com/dev.to",
-        "url": "https://dev.to/rafaelmagalhaes/home-media-server-with-plex-sonarr-radarr-qbitorrent-and-overseerr-2a84"
+        "url": "https://danai.tech"
       },
       {
         "type": "link",
@@ -80,13 +73,6 @@
         "title": "从文本创建图像 | Magic Studio 的 AI 图像生成器",
         "icon": "https://logo.clearbit.com/magicstudio.com",
         "url": "https://magicstudio.com/zh/ai-image-generator/images/?image=imagine-1227d16a9f38"
-      },
-      {
-        "type": "link",
-        "addDate": 1718873469283,
-        "title": "Войти в электронную почту Mail.ru — надежный почтовый клиент",
-        "icon": "https://logo.clearbit.com/account.mail.ru",
-        "url": "https://account.mail.ru/login?fail=1&email=d.bo%40mail.insan.edu.kg&page=https%3A%2F%2Fe.mail.ru%2Fmessages%2Finbox%3Fauthid%3Dlxn0um4t.ph%26back%3D1%26dwhsplit%3Ds10273.b1ss12743s%26from%3Dlogin%26show_vkc_promo%3D1%26x-login-auth%3D1%26back%3D1&captcha=1&captcha_type=recaptcha&lang=ru_RU&opener=account&twoSteps=1"
       },
       {
         "type": "link",
